@@ -30,8 +30,8 @@ dentro do raio de distância indicado.
 10.A comunicação assíncrona deve acontecer para contatos OFFLINE ou que
 estejam fora do raio de comunicação.
 
-Critérios de Avaliação
-UI (0-10)
-Definição de operações (RMI/RPC) ou protocolo (sockets) (0-10)
-Modelagem de tuplas (0-10)
-Implementação de Funcionalidades (0-10)
+Critérios de Avaliação:
+1. UI (0-10).
+2. Definição de operações (RMI/RPC) ou protocolo (sockets) (0-10).
+3. Modelagem de tuplas (0-10).
+4. Implementação de Funcionalidades (0-10).
