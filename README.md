@@ -1,5 +1,5 @@
 # Trabalho-Final-PPD
-Trabalho Final de PPD utilizando RCP/RMI + MOM + TuplaSpace
+Trabalho Final de Programação Paralela e Distribuida utilizando RCP/RMI + MOM + TuplaSpace
 
 # Projeto Final
 
