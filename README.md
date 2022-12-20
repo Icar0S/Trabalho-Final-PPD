@@ -1,9 +1,11 @@
 # Trabalho-Final-PPD
 Trabalho Final de PPD utilizando RCP/RMI + MOM + TuplaSpace
 
-Projeto Final
+# Projeto Final
+
 Objetivo: Implementar um sistema de comunicação baseado em localização. As
 funcionalidades básicas a serem incluídas são as seguintes:
+
 1. Deve haver comunicação síncrona entre usuários ONLINE que deve ocorrer
 através de sockets ou RPC/RMI.
 2. Deve haver comunicação assíncrona entre usuários OFFLINE que deve ocorrer
